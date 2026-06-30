@@ -35,10 +35,6 @@ print(json.dumps(news, indent=2))        #json.dumps() converts a Python object 
                                             #It's the opposite of json.loads() (which converts a JSON string into a Python object).
 
 
-
-
-# Skills: API keys, pagination, filtering
-
 # 1. install dotenv in terminal --> pip install python-dotenv
 # 2. create a .env file and copy the api key there after getting the key from website
 # 3. by getting a api proves who you are to the server before it gives you data.
